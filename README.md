@@ -26,12 +26,13 @@
 
 ## 👋 About Me
 
-- 🎓 BCA graduate (2023) — currently pursuing an online **MCA (AI & Data Science)**
-- 📊 Completed the **Google Data Analytics Professional Certificate** (Oct 2024)
-- 🧭 Building toward a long-term career in **Data Science**, using **Data Analytics** as the entry point
-- 🤖 Running an **AI Automation** track in parallel — freelance lead-gen and workflow automation
-- 🛠️ Comfortable working across the stack: data pipelines, dashboards, and AI-powered apps
-- 📍 Based in Hyderabad, India
+- 🎓 Pursuing **MCA (AI & Data Science)** at **Manipal University Jaipur (Online)**
+- 🎓 Bachelor of Computer Applications (BCA)
+- 📊 Google Data Analytics Professional Certificate (Coursera)
+- 🤖 Passionate about AI Automation, Data Analytics, and Full-Stack AI Development
+- 🚀 Building AI-powered SaaS applications, CRM systems, analytics dashboards, and intelligent workflows
+- 📈 Continuously improving my skills through real-world projects and open-source development
+- 📍 Hyderabad, India
 
 ---
 
@@ -55,11 +56,11 @@
 ## 🎯 Current Focus
 
 ```text
-🔭 Rebuilding my GitHub portfolio repo-by-repo to a professional standard
-📈 Strengthening SQL and core data science fundamentals
-🤝 Building an AI-powered outreach & lead-follow-up tool (full-stack)
-💼 Building out a Fiverr AI automation service line (lead-gen workflows)
-🎓 Working through an MCA while shipping projects on the side
+🚀 Building AI-powered SaaS applications
+🤖 Developing AI Automation workflows using n8n and OpenRouter
+📊 Creating Data Analytics and Machine Learning projects
+💻 Improving Full-Stack AI development skills
+🎓 Completing MCA (AI & Data Science)
 ```
 
 ---
@@ -67,10 +68,10 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,pandas,sklearn,html,css,js,git,github,vscode,supabase" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,postgres,mongodb,supabase,git,github,docker,vscode,html,css" />
 </p>
 
-> Also working with: **Power BI**, **OpenRouter**, **n8n**, **Zapier**, **Make**, **Bardeen**, **Stripe**, **Render** — these don't have official Skill Icons yet.
+> **Also working with:** Power BI • Pandas • NumPy • Scikit-learn • Matplotlib • OpenRouter • n8n • Zapier • Make • Bardeen • Stripe • Render
 
 ---
 
@@ -111,30 +112,10 @@
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandrakanth29&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<!--
-  Placeholder only — this image will 404 until a GitHub Actions workflow
-  (e.g. Platane/snk) is set up in the Chandrakanth29/Chandrakanth29 repo
-  to generate it on a schedule. Not created yet, per request.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chandrakanth29/Chandrakanth29/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake — requires workflow setup" />
-</p>
-
----
-
 ## 📜 Certifications
 
 - 🎓 **Google Data Analytics Professional Certificate** — Coursera (October 2024)
+- 🎓 **Complete Machine Learning & Data Science Program – Generative AI & ChatGPT** — GeeksforGeeks (November 2024)
 
 ---
 
@@ -144,6 +125,20 @@
 - Core data science fundamentals (statistics, EDA, modeling)
 - R Markdown for reproducible project reports
 - Exploring Kaggle for applied practice alongside GitHub
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always interested in collaborating on:
+
+- AI Automation
+- Data Analytics
+- Full-Stack AI Applications
+- Open Source Projects
+- Machine Learning
+
+Feel free to connect if you're working on something exciting.
 
 ---
 
